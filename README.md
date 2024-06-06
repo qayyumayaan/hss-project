@@ -1,1 +1,3 @@
-# hss-project
+# Malware Detection with KNN Databases
+
+This project aims to enhance malware detection using KNN vector databases. Read more about this project through the [accompanying paper](https://github.com/qayyumayaan/hss-project/blob/main/Ayaan_Qayyum_Project_Report.pdf). View the [presentation slides](https://github.com/qayyumayaan/hss-project/blob/main/Ayaan_Qayyum_HSS_Project.pdf), and the [video demonstration](https://youtu.be/cPm150wexs0).
